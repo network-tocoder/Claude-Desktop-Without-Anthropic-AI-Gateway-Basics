@@ -1,4 +1,4 @@
-# ✨ Claude Desktop for FREE — Bifrost AI Gateway Setup
+Claude Desktop — Bifrost AI Gateway Setup
 
 ![GitHub stars](https://img.shields.io/github/stars/network-tocoder/free-claude-desktop-bifrost?style=for-the-badge&color=orange)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
