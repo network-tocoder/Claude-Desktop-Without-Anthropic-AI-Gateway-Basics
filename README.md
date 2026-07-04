@@ -9,6 +9,23 @@ Claude Desktop — Bifrost AI Gateway Setup
 > **Run Claude Desktop's full Cowork + Code experience — powered by free models via Bifrost AI Gateway. No Anthropic subscription. No API key. Zero cost.**
 
 ---
+## 🎓 Complete AI Gateway Masterclass (Free)
+
+✅ **Part 1:** Claude Desktop Without Anthropic (AI Gateway Basics)
+
+✅ **Part 2:** Unlimited Claude + Gemini + OpenCode with Bifrost
+
+✅ **Part 3:** Complete $0 AI Coding Stack (Claude + NVIDIA + VS Code)
+
+> Watch the series in order to build the complete setup from scratch.
+
+[▶ Part 1](https://www.youtube.com/watch?v=4DlNb2weD_s) •
+[▶ Part 2](https://www.youtube.com/watch?v=LOrjVQnA4EY) •
+[▶ Part 3](https://www.youtube.com/watch?v=LzPvQAkQ8tw)
+
+---
+
+---
 
 ## 📺 Watch the Full Video
 
